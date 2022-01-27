@@ -1,5 +1,6 @@
 # WaterXsploit
 first download the files
+by click code and download zip
 
 
 1. open waterXsploit/waterX
