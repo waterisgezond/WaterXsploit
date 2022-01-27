@@ -1,4 +1,7 @@
 # WaterXsploit
+first download the files
+
+
 1. open waterXsploit/waterX
 2. go to bin,
 3. open Debug,
